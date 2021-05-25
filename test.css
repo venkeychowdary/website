@@ -1,0 +1,33 @@
+.cont{
+	background-color: black;
+	height:400px;
+  width:500px;
+}
+
+.red{
+  color:red;
+ 
+  background-color:red;
+  position:fixed;
+ padding:2px;
+  
+}
+.green{
+  background-color: green;
+  height:100px;
+  width:100px;
+  right:0;
+  position:fixed;
+  left:100px;
+  padding:2px;
+}
+.yellow{
+  color:yellow;
+  background-color: yellow;
+   position:fixed;
+  height:100px;
+  width:100px;
+  top:7px;
+ padding:2px;
+  left:200px;
+}
